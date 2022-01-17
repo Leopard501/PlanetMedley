@@ -3,25 +3,34 @@
     "name": "Testonia",
     "starSystem": "smallbug.TestSystem",
     "Spawn": {
-        "playerSpawnPoint" :
-        {"x": -55.65454, "y": 227.4736, "z": 183.9742},
-        "shipSpawnPoint" :
-        {"x": -59.18244, "y": 215.5915, "z": 196.174},
-        "startwithSuit" : true
+        "playerSpawnPoint": {"x": -270.2678, "y": 95.13448, "z": 104.3775},
+        "shipSpawnPoint": {"x": -270.2678, "y": 95.13448, "z": 104.3775},
+        "startwithSuit": true
     },
     "Base": {
-        "surfaceGravity": 10,
-        "surfaceSize": 300
+        "surfaceGravity": 12,
+        "surfaceSize": 300,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
     },
     "Orbit": {
-        "semiMajorAxis": 5000,
-        "primaryBody": "Big T",
+        "semiMajorAxis" : 8000,
+        "inclination" : 5,
+        "primaryBody" : "Big T",
+        "isMoon" : false,
+        "longitudeOfAscendingNode" : 50,
+        "eccentricity" : 0,
+        "argumentOfPeriapsis": 286,
+        "axialTilt" : 25,
+        "trueAnomaly" : 19.4,
+        "siderealPeriod" : 50,
         "showOrbitLine": true,
-        "tint": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 255
-        }
+        "tint": {"R": 255, "G": 0, "B": 0, "A": 255}
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/blank_heightmap.png",
+        "textureMap": "planets/assets/mars_texturemap.png",
+        "minHeight": 295,
+        "maxHeight": 305
     }
 }
