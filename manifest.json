@@ -1,8 +1,8 @@
 {
   "filename": "NewHorizonsConfig.dll",
   "author": "Small Bug",
-  "name": "Test",
-  "uniqueName": "smallbug.test",
+  "name": "Planet Medley",
+  "uniqueName": "smallbug.planetMedley",
   "version": "0.0.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
