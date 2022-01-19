@@ -16,7 +16,7 @@
         "longitudeOfAscendingNode": 0,
         "eccentricity": 0,
         "argumentOfPeriapsis": 0,
-        "axialTilt": 30,
+        "axialTilt": 0,
         "trueAnomaly": 0,
         "siderealPeriod": 20,
         "showOrbitLine": true,
@@ -32,5 +32,12 @@
         "fogDensity": 1,
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 0, "G": 100, "B": 255, "A": 255}
+    },
+    "Ring": {
+        "innerRadius": 500,
+        "outerRadius": 1000,
+        "inclination": 0,
+        "longitudeOfAscendingNode": 0,
+        "texture": "planets/assets/blue_rings.png"
     }
 }
