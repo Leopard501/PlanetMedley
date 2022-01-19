@@ -4,12 +4,12 @@
     "starSystem": "smallbug.PlanetMedley",
     "Base": {
         "surfaceGravity": 20,
-        "surfaceSize": 300,
+        "surfaceSize": 320,
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
     "Orbit": {
-        "semiMajorAxis": 8000,
+        "semiMajorAxis": 7000,
         "inclination": 0,
         "primaryBody" : "I haven't come up with a name yet...",
         "isMoon": false,
@@ -23,8 +23,8 @@
         "tint": {"R": 0, "G": 100, "B": 255, "A": 255}
     },
     "Atmosphere": {
-        "size": 300,
-        "fogSize": 300,
+        "size": 320,
+        "fogSize": 320,
         "cloudTint": {"R": 0, "G": 100, "B": 255, "A": 255},
         "cloud": "planets/assets/blue_clouds.png",
         "useBasicCloudShader": false,

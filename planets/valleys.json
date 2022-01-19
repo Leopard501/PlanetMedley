@@ -14,16 +14,16 @@
         "hasAmbientLight": true
     },
     "Orbit": {
-        "semiMajorAxis" : 10000,
-        "inclination" : 5,
-        "primaryBody" : "I haven't come up with a name yet...",
-        "isMoon" : false,
-        "longitudeOfAscendingNode" : 50,
-        "eccentricity" : 0,
+        "semiMajorAxis": 10000,
+        "inclination": 5,
+        "primaryBody": "I haven't come up with a name yet...",
+        "isMoon": false,
+        "longitudeOfAscendingNode": 50,
+        "eccentricity": 0,
         "argumentOfPeriapsis": 286,
-        "axialTilt" : 10,
-        "trueAnomaly" : 19.4,
-        "siderealPeriod" : 50,
+        "axialTilt": 10,
+        "trueAnomaly": 19.4,
+        "siderealPeriod": 50,
         "showOrbitLine": true,
         "tint": {"R": 80, "G": 80, "B": 100, "A": 255}
     },
@@ -35,24 +35,20 @@
     },
     "Water": {
         "size": 120,
-        "tint": {
-            "R": 50,
-            "G": 60,
-            "B": 120
-        }
+        "tint": {"R": 50, "G": 60, "B": 120}
     },
-    "Atmosphere" : {
-        "size" : 140,
+    "Atmosphere": {
+        "size": 140,
         "fogSize": 140,
-        "cloudTint" : {"r" : 100, "g" : 120, "b" : 150, "a" : 255},
-        "cloud" : "planets/assets/valleys_clouds.png",
+        "cloudTint": {"r" : 100, "g" : 120, "b" : 150, "a" : 255},
+        "cloud": "planets/assets/valleys_clouds.png",
         "useBasicCloudShader": false,
         "hasRain": true,
         "hasOxygen": true,
-        "fogTint" : {"r" : 50, "g" : 150, "b" : 200, "a" : 255},
+        "fogTint": {"r" : 50, "g" : 150, "b" : 200, "a" : 255},
         "fogDensity": 1,
-        "hasAtmosphere" : true,
-        "atmosphereTint" : {"r" : 50, "g" : 150, "b" : 200, "a" : 255}
+        "hasAtmosphere": true,
+        "atmosphereTint": {"r" : 50, "g" : 150, "b" : 200, "a" : 255}
     },
     "Props": {
         "Details": [

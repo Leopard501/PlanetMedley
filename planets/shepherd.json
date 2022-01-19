@@ -24,7 +24,7 @@
     "HeightMap": {
         "heightMap": "planets/assets/shepherd_heightmap.png",
         "textureMap": "planets/assets/shepherd_texturemap.png",
-        "minHeight": 30,
-        "maxHeight": 50
+        "minHeight": 20,
+        "maxHeight": 60
     }
 }
