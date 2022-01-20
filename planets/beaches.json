@@ -18,7 +18,7 @@
         "argumentOfPeriapsis": 0,
         "axialTilt": 5,
         "trueAnomaly": 0,
-        "siderealPeriod": 40,
+        "siderealPeriod": 30,
         "showOrbitLine": true,
         "tint": {"R": 255, "G": 150, "B": 50, "A": 255}
     },
@@ -29,7 +29,7 @@
         "maxHeight": 110
     },
     "Water": {
-        "tint": {"R": 0, "G": 100, "B": 255},
+        "tint": {"R": 0, "G": 150, "B": 255},
         "size": 100
     },
     "Atmosphere": {
@@ -37,5 +37,59 @@
         "hasOxygen": true,
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 0, "G": 120, "B": 255}
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -3.821951, "y": 55.09624, "z": 84.70924},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -72.15646, "y": 52.19258, "z": 47.74417},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -99.25386, "y": -9.350188, "z": 15.95179},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -93.32289, "y": -38.43319, "z": -4.790688},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -34.2122, "y": -64.75072, "z": -69.61987},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": 30.76099, "y": 49.98856, "z": -82.24081},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": 70.82672, "y": -59.26586, "z": 40.98599},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": 66.69958, "y": -38.55033, "z": -65.38847},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -29.54351, "y": -54.71722, "z": 79.63966},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1",
+                "position": {"x": -27.04289, "y": -66.96606, "z": 70.6789},
+                "alignToNormal": true
+            }
+        ]
     }
 }
