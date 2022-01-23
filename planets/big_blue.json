@@ -11,7 +11,7 @@
     "Orbit": {
         "semiMajorAxis": 7000,
         "inclination": 0,
-        "primaryBody" : "I haven't come up with a name yet...",
+        "primaryBody" : "Medley",
         "isMoon": false,
         "longitudeOfAscendingNode": 0,
         "eccentricity": 0,

@@ -5,7 +5,7 @@
     "Base": {
         "surfaceGravity": 3,
         "surfaceSize": 40,
-        "hasMapMarker": false,
+        "hasMapMarker": true,
         "hasAmbientLight": true
     },
     "Orbit": {
