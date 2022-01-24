@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Shepherd",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 3,
+        "surfaceSize": 40,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 750,
+        "inclination": 0,
+        "primaryBody": "Big Blue",
+        "isMoon": true,
+        "longitudeOfAscendingNode": 0,
+        "eccentricity": 0,
+        "argumentOfPeriapsis": 0,
+        "axialTilt": 50,
+        "trueAnomaly": 0,
+        "siderealPeriod": 100,
+        "showOrbitLine": true
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/shepherd_heightmap.png",
+        "textureMap": "planets/assets/shepherd_texturemap.png",
+        "minHeight": 20,
+        "maxHeight": 60
+    }
+}
