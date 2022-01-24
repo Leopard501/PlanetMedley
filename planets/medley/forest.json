@@ -24,8 +24,8 @@
         "tint": {"R": 61, "G": 113, "B": 23, "A": 255}
     },
     "HeightMap": {
-        "heightMap": "planets/assets/forest_heightmap.png",
-        "textureMap": "planets/assets/forest_texturemap.png",
+        "heightMap": "planets/assets/medley/forest_heightmap.png",
+        "textureMap": "planets/assets/medley/forest_texturemap.png",
         "minHeight": 130,
         "maxHeight": 170
     },

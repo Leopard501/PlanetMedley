@@ -26,7 +26,7 @@
         "size": 320,
         "fogSize": 320,
         "cloudTint": {"R": 0, "G": 100, "B": 255, "A": 255},
-        "cloud": "planets/assets/blue_clouds.png",
+        "cloud": "planets/assets/medley/blue_clouds.png",
         "useBasicCloudShader": false,
         "fogTint": {"R": 0, "G": 100, "B": 255, "A": 255},
         "fogDensity": 1,
@@ -38,6 +38,6 @@
         "outerRadius": 1000,
         "inclination": 0,
         "longitudeOfAscendingNode": 0,
-        "texture": "planets/assets/blue_rings.png"
+        "texture": "planets/assets/medley/blue_rings.png"
     }
 }

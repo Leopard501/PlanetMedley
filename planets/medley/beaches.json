@@ -23,8 +23,8 @@
         "tint": {"R": 255, "G": 150, "B": 50, "A": 255}
     },
     "HeightMap": {
-        "heightMap": "planets/assets/beaches_heightmap.png",
-        "textureMap": "planets/assets/beaches_texturemap.png",
+        "heightMap": "planets/assets/medley/beaches_heightmap.png",
+        "textureMap": "planets/assets/medley/beaches_texturemap.png",
         "minHeight": 90,
         "maxHeight": 110
     },

@@ -22,8 +22,8 @@
         "showOrbitLine": true
     },
     "HeightMap": {
-        "heightMap": "planets/assets/shepherd_heightmap.png",
-        "textureMap": "planets/assets/shepherd_texturemap.png",
+        "heightMap": "planets/assets/medley/shepherd_heightmap.png",
+        "textureMap": "planets/assets/medley/shepherd_texturemap.png",
         "minHeight": 20,
         "maxHeight": 60
     }
