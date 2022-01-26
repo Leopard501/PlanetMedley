@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Midnight",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 100,
+        "surfaceSize": 1000,
+        "hasMapMarker": true,
+        "gravityFallOff": "inverseSquared"
+    },
+    "Orbit": {
+        "isStatic": true,
+        "semiMajorAxis": 250000,
+        "primaryBody": "Medley",
+        "showOrbitLine": false
+    },
+    "Singularity": {
+        "size": 1000,
+        "type": "BlackHole"
+    }
+}
