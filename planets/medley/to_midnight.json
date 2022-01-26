@@ -14,7 +14,7 @@
         "showOrbitLine": true
     },
     "Singularity": {
-        "size": 50,
+        "size": 100,
         "type": "BlackHole",
         "pairedSingularity": "Midnight Entrance"
     }

@@ -2,11 +2,6 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
     "name": "Rainy Valley",
     "starSystem": "smallbug.PlanetMedley",
-    "Spawn": {
-        "playerSpawnPoint": {"x": -119.4343, "y": -42.5566, "z": -2.226425},
-        "shipSpawnPoint": {"x": -119.4343, "y": -42.5566, "z": -2.226425},
-        "startwithSuit": true
-    },
     "Base": {
         "surfaceGravity": 6,
         "surfaceSize": 150,

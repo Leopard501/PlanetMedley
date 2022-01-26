@@ -15,7 +15,7 @@
         "showOrbitLine": true
     },
     "Singularity": {
-        "size": 50,
+        "size": 100,
         "type": "WhiteHole",
         "pairedSingularity": "Midnight Gateway"
     }

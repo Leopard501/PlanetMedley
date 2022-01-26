@@ -6,8 +6,7 @@
         "surfaceGravity": 12,
         "surfaceSize": 150,
         "hasMapMarker": true,
-        "hasAmbientLight": true,
-        "sandSize": 170
+        "hasAmbientLight": true
     },
     "Orbit": {
         "semiMajorAxis": 4000,
