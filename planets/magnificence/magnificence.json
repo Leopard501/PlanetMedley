@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Magnificence",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 100,
+        "surfaceSize": 1500,
+        "hasMapMarker": true,
+        "gravityFallOff": "inverseSquared"
+    },
+    "Orbit": {
+        "isStatic": true,
+        "semiMajorAxis": 250000,
+        "primaryBody": "Medley",
+        "showOrbitLine": false,
+        "trueAnomaly": 60
+    },
+    "Star": {
+        "size": 1500,
+        "tint": {"R": 200, "G": 200, "B": 255, "A": 255},
+        "solarFlareTint": {"R": 100, "G": 100, "B": 255, "A": 255},
+        "solarLuminosity": 1.5
+    }
+}

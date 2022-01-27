@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
-    "name": "Midnight Gateway",
+    "name": "Magnificence Gateway",
     "starSystem": "smallbug.PlanetMedley",
     "Base": {
         "surfaceGravity": 24,
@@ -11,11 +11,12 @@
         "isStatic": true,
         "semiMajorAxis": 15000,
         "primaryBody": "Medley",
+        "trueAnomaly": 60,
         "showOrbitLine": true
     },
     "Singularity": {
         "size": 100,
         "type": "BlackHole",
-        "pairedSingularity": "Midnight Entrance"
+        "pairedSingularity": "Magnificence Entrance"
     }
 }

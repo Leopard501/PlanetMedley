@@ -4,7 +4,7 @@
     "starSystem": "smallbug.PlanetMedley",
     "Base": {
         "surfaceGravity": 100,
-        "surfaceSize": 1000,
+        "surfaceSize": 2000,
         "hasMapMarker": true,
         "gravityFallOff": "inverseSquared",
         "centerOfSolarSystem": true
