@@ -1,0 +1,110 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Boiling Canyon",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 10,
+        "surfaceSize": 150,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
+    },
+    "Spawn": {
+        "playerSpawnPoint": {"x": 22.26542, "y": 107.2508, "z": 149.2668},
+        "shipSpawnPoint": {"x": 22.26542, "y": 107.2508, "z": 149.2668},
+        "startwithSuit": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 4000,
+        "inclination": 0,
+        "primaryBody": "Midnight",
+        "isMoon": false,
+        "axialTilt": 10,
+        "siderealPeriod": 100,
+        "showOrbitLine": true,
+        "tint": {"R": 75, "G": 127, "B": 145, "A": 255}
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/midnight/canyon_heightmap.png",
+        "textureMap": "planets/assets/midnight/canyon_texturemap.png",
+        "minHeight": 110,
+        "maxHeight": 190
+    },
+    "Atmosphere": {
+        "size": 170,
+        "hasOxygen": true,
+        "hasAtmosphere": true,
+        "atmosphereTint": {"r" : 50, "g" : 0, "b" : 150, "a" : 255}
+    },
+    "Water": {
+        "size": 160,
+        "tint": {"R": 50, "G": 60, "B": 120, "A": 200}
+    },
+    "Lava": {
+        "size": 140,
+        "curve": [{"time": 0, "value": 1}]
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 125.6774, "y": 18.5146, "z": -21.75699},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 125.514, "y": -12.0571, "z": 35.73538},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 128.0944, "y": 47.82491, "z": 23.13675},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 67.4684, "y": 18.68924, "z": -111.8366},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": -10.31128, "y": 63.89118, "z": -114.3136},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": -86.3989, "y": 102.0995, "z": 1.057961},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 87.73438, "y": -31.21763, "z": 96.67297},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 72.90205, "y": -52.87743, "z": 114.9124},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": 24.67758, "y": -69.33557, "z": 112.7797},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": -113.0047, "y": -75.41444, "z": 33.43771},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": -102.408, "y": -62.02665, "z": -47.80329},
+                "alignToNormal": true
+            },
+            {
+                "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
+                "position": {"x": -75.92675, "y": -46.37221, "z": -105.1631},
+                "alignToNormal": true
+            }
+        ]
+    }
+}
