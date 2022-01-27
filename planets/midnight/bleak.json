@@ -1,0 +1,44 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Bleak Hope",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 20,
+        "surfaceSize": 180,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
+    },
+    "Spawn": {
+        "playerSpawnPoint": {"x": 138.6956, "y": 113.933, "z": 29.15119},
+        "shipSpawnPoint": {"x": 138.6956, "y": 113.933, "z": 29.15119},
+        "startwithSuit": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 8000,
+        "inclination": 0,
+        "primaryBody": "Midnight",
+        "isMoon": false,
+        "axialTilt": 0,
+        "siderealPeriod": 100,
+        "showOrbitLine": true,
+        "tint": {"R": 100, "G": 0, "B": 200, "A": 0}
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/midnight/bleak_heightmap.png",
+        "textureMap": "planets/assets/midnight/bleak_texturemap.png",
+        "minHeight": 180,
+        "maxHeight": 220
+    },
+    "Props": {
+        "scatter" : [
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/EYEState_QuantumObjects/EYE_Q_CustomArch/EYE_Q_CustomArch/OtherComponentsGroup/Rocks_EYE_Ridge_Curve_C_R",
+                "count" : 15
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/EYEState_QuantumObjects/EYE_Q_Arch_B/EYE_Q_ArchB/Rocks_EYE_Arch_B",
+                "count" : 15
+            }
+        ]
+    }
+}

@@ -8,11 +8,6 @@
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
-    "Spawn": {
-        "playerSpawnPoint": {"x": 22.26542, "y": 107.2508, "z": 149.2668},
-        "shipSpawnPoint": {"x": 22.26542, "y": 107.2508, "z": 149.2668},
-        "startwithSuit": true
-    },
     "Orbit": {
         "semiMajorAxis": 4000,
         "inclination": 0,
@@ -30,14 +25,14 @@
         "maxHeight": 190
     },
     "Atmosphere": {
-        "size": 170,
+        "size": 180,
         "hasOxygen": true,
         "hasAtmosphere": true,
         "atmosphereTint": {"r" : 50, "g" : 0, "b" : 150, "a" : 255}
     },
     "Water": {
         "size": 160,
-        "tint": {"R": 50, "G": 60, "B": 120, "A": 200}
+        "tint": {"R": 50, "G": 60, "B": 120}
     },
     "Lava": {
         "size": 140,
