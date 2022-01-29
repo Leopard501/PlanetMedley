@@ -1,0 +1,177 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Greenrock",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 6,
+        "surfaceSize": 80,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 500,
+        "inclination": 20,
+        "primaryBody": "Deep Swamp",
+        "isMoon": true,
+        "axialTilt": 40,
+        "siderealPeriod": 50,
+        "showOrbitLine": true,
+        "tint": {"R": 50, "G": 100, "B": 70, "A": 255}
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/magnificence/greenrock_heightmap.png",
+        "textureMap": "planets/assets/magnificence/greenrock_texturemap.png",
+        "minHeight": 70,
+        "maxHeight": 90
+    },
+    "Atmosphere": {
+        "size": 120,
+        "hasOxygen": true,
+        "hasAtmosphere": true,
+        "atmosphereTint": {"R": 100, "G": 150, "B": 255}
+    },
+    "Props": {
+        "scatter": [
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -21.97827, "y": 73.75916, "z": 7.5271},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -4.040232, "y": 74.56017, "z": 14.31316},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 45.36041, "y": 45.68727, "z": 39.60888},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 34.23922, "y": 31.92442, "z": 58.65357},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 59.16142, "y": 16.40282, "z": 53.10109},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 36.80835, "y": -10.88346, "z": 67.01071},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 36.80835, "y": -10.88346, "z": 67.01071},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 36.80835, "y": -10.88346, "z": 67.01071},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 65.84282, "y": -5.187256, "z": 40.15033},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 74.11995, "y": 11.92442, "z": 11.08114},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 45.45127, "y": 31.15242, "z": -46.69325},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 57.56639, "y": 19.06121, "z": -39.41212},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 52.26863, "y": -17.2416, "z": -48.49213},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 39.4762, "y": -26.85183, "z": -55.74463},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 20.49903, "y": -16.08984, "z": -67.69067},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -12.41508, "y": -35.57993, "z": -65.64954},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -8.61803, "y": 7.842339, "z": -76.78671},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -26.2799, "y": 14.05254, "z": -69.97916},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -58.59639, "y": 12.23966, "z": -46.60649},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -64.75462, "y": -20.93685, "z": -37.36399},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -69.36766, "y": -34.75761, "z": -7.846119},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -66.67962, "y": -35.28194, "z": 22.63222},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -48.26556, "y": -36.00251, "z": 45.41846},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -20.95589, "y": -51.22258, "z": 53.59023},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 3.999474, "y": -36.4419, "z": 64.55585},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -10.75723, "y": -13.37992, "z": 75.75956},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -38.91207, "y": 24.1942, "z": 60.38773},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -37.27471, "y": 4.413956, "z": 66.00259},
+                "alignToNormal": true
+            }
+        ]
+    }
+}
