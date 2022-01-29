@@ -44,6 +44,44 @@
                 "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
                 "count" : 50
             }
+        ],
+        "details": [
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": 127.8202, "y": 150.8158, "z": -16.68958},
+                "alignToNormal": true,
+                "scale": 4.0
+            },
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": -2.161152, "y": -81.6771, "z": -180.8139},
+                "alignToNormal": true,
+                "scale": 4.0
+            },
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": -79.3035, "y": 61.65704, "z": -171.0115},
+                "alignToNormal": true,
+                "scale": 4.0
+            },
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": -193.1963, "y": 18.802, "z": -40.43008},
+                "alignToNormal": true,
+                "scale": 4.0
+            },
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": -64.72541, "y": 98.77534, "z": 158.9145},
+                "alignToNormal": true,
+                "scale": 4.0
+            },
+            {
+                "path" : "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+                "position": {"x": -44.79833, "y": -102.4153, "z": 163.797},
+                "alignToNormal": true,
+                "scale": 4.0
+            }
         ]
     }
 }
