@@ -8,11 +8,6 @@
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
-    "Spawn": {
-        "playerSpawnPoint": {"x": 50.0584, "y": 132.2108, "z": 139.1909},
-        "shipSpawnPoint": {"x": 50.0584, "y": 132.2108, "z": 139.1909},
-        "startwithSuit": true
-    },
     "Orbit": {
         "semiMajorAxis": 6000,
         "inclination": 0,

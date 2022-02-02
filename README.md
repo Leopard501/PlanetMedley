@@ -10,7 +10,7 @@ A medley of about a dozen planets and moons spread across 3 systems to explore! 
 interstellar view in the ship's log and the autopilot. Uses blackhole/whitehole gateways to connect the systems, 
 no need to fly the whole 250 km that separates them.  
   
-### Enjoy some slightly self-indulgent screenshots.
+### Screenshots
 
 ![Warm Beaches](https://user-images.githubusercontent.com/43260601/150704280-18a60099-eac7-4e6c-af5a-908f72dcccc0.png)
 ![Rainy Valley](https://user-images.githubusercontent.com/43260601/150704286-b8e50d53-4123-41e8-9142-97080bc88bf9.png)
