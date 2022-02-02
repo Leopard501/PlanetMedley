@@ -2,9 +2,8 @@
 
 ![Title image](https://user-images.githubusercontent.com/43260601/150666418-c3f2137f-7bb4-40e5-bb74-c70f6361d768.png)
 
-![Current version](https://img.shields.io/github/manifest-json/v/Leopard501/PlanetMedley?color=gree&filename=manifest.json)
+![Current version](https://img.shields.io/github/manifest-json/v/Leopard501/PlanetMedley)
 ![Downloads](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/total)
-![Downloads of newest version](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/latest/total)
 
 A medley of about a dozen planets and moons spread across 3 systems to explore! Travel to them using the 
 interstellar view in the ship's log and the autopilot. Uses blackhole/whitehole gateways to connect the systems, 
