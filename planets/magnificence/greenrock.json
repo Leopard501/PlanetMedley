@@ -25,7 +25,7 @@
         "maxHeight": 90
     },
     "Atmosphere": {
-        "size": 120,
+        "size": 110,
         "hasOxygen": true,
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 100, "G": 150, "B": 255}

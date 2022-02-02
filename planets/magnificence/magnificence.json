@@ -22,8 +22,8 @@
         "solarLuminosity": 1.25
     },
     "AsteroidBelt": {
-        "innerRadius": 10000,
-        "outerRadius": 10200,
+        "innerRadius": 9000,
+        "outerRadius": 9200,
         "randomSeed": 0
     }
 }

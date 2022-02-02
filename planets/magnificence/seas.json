@@ -1,0 +1,42 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "name": "Icy Seas",
+    "starSystem": "smallbug.PlanetMedley",
+    "Base": {
+        "surfaceGravity": 14,
+        "surfaceSize": 200,
+        "hasMapMarker": true,
+        "hasAmbientLight": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 13000,
+        "inclination": 0,
+        "primaryBody": "Magnificence",
+        "isMoon": false,
+        "axialTilt": 5,
+        "siderealPeriod": 100,
+        "showOrbitLine": true,
+        "tint": {"R": 60, "G": 40, "B": 120, "A": 255}
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/magnificence/seas_heightmap.png",
+        "textureMap": "planets/assets/magnificence/seas_texturemap.png",
+        "minHeight": 100,
+        "maxHeight": 190
+    },
+    "Atmosphere": {
+        "size": 210,
+        "hasAtmosphere": true,
+        "hasOxygen": true,
+        "atmosphereTint": {"R": 0, "G": 20, "B": 150}
+    },
+    "Water": {
+        "size": 160,
+        "tint": {"R": 80, "G": 40, "B": 200, "A": 255}
+    },
+    "Sand": {
+        "size": 120,
+        "tint": {"R": 50, "G": 60, "B": 75},
+        "curve": [{"time": 0, "value": 1}]
+    }
+}
