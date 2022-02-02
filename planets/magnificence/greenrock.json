@@ -31,7 +31,7 @@
         "atmosphereTint": {"R": 100, "G": 150, "B": 255}
     },
     "Props": {
-        "scatter": [
+        "details": [
             {
                 "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
                 "position": {"x": -21.97827, "y": 73.75916, "z": 7.5271},
@@ -170,6 +170,31 @@
             {
                 "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
                 "position": {"x": -37.27471, "y": 4.413956, "z": 66.00259},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 20.36703, "y": 13.13233, "z": -73.78069},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -45.18162, "y": -4.54628, "z": -60.05358},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -42.41534, "y": -34.54509, "z": -52.34899},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": -7.745022, "y": -65.61205, "z": 37.82739},
+                "alignToNormal": true
+            },
+            {
+                "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L",
+                "position": {"x": 45.39744, "y": -31.5618, "z": 54.25604},
                 "alignToNormal": true
             }
         ]
