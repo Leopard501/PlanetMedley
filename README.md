@@ -1,5 +1,7 @@
 # Medley of Planets
 
+### By Small Bug / Medley Man
+
 ![Title image](https://user-images.githubusercontent.com/43260601/150666418-c3f2137f-7bb4-40e5-bb74-c70f6361d768.png)
 
 ![Current version](https://img.shields.io/github/manifest-json/v/Leopard501/PlanetMedley)
@@ -20,5 +22,6 @@ no need to fly the whole 250 km that separates them.
 ![Greenrock](https://user-images.githubusercontent.com/43260601/152092026-3ff4cf19-46c2-4d43-a88f-411c23122b07.png)
 
 ### Credits
+
 Rainy Valley clouds texturemap by Raychel Sanner  
 [https://unsplash.com/photos/MnnXMvs4cQo](https://unsplash.com/photos/MnnXMvs4cQo)
