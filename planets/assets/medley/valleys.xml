@@ -1,0 +1,13 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Most of this planet is covered in thick water vapor fog, casting these valleys in darkness and warming them via a greenhouse effect.</Page>
+            <Page>Interestingly enough, it seems its so dark and hot that life isn't possible across most of the surface!</Page>
+            <Page>Despite that, these mountains are covered in grass and trees, soaking up the sunlight and enjoying the cool, oxygen rich air.</Page>
+            <Page>Life appears in the strangest places.</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

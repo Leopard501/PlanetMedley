@@ -45,8 +45,34 @@
         "hasAtmosphere": true,
         "atmosphereTint": {"r" : 50, "g" : 150, "b" : 200, "a" : 255}
     },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": -47.37504, "y": 172.0377, "z": -98.8937},
+                "frequency": "Traveler",
+                "name": "Rainy Valley audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
     "Props": {
+        "dialogue": [
+            {
+                "position": {"x": -47.37504, "y": 172.0377, "z": -98.8937},
+                "xmlFile": "planets/assets/medley/valleys.xml"
+            }
+        ],
         "Details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": -47.37504, "y": 172.0377, "z": -98.8937},
+                "alignToNormal": true
+            },
+
             {
                 "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_S/Surface_AlpineClump_S/BatchedGroup",
                 "position": {"x": 32.39006, "y": 143.6727, "z": 40.19296},

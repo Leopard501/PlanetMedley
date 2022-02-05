@@ -1,0 +1,14 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>This planet is tidally locked; one side always faces the sun and the other is always dark!</Page>
+            <Page>The Attlerock is tidally locked to Timber Hearth, but there's nothing back home that's tidally locked to the sun.</Page>
+            <Page>Half this planet is covered in a giant ice sheet, the other is a scorching desert!</Page>
+            <Page>Most of the life here is clinging to the transition between "day" and "night," the <i>twilight zone</i> I guess.</Page>
+            <Page>Imagine living under a permanent sun set!</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

@@ -1,5 +1,5 @@
 <DialogueTree>
-    <NameField>Shepherd Observations</NameField>
+    <NameField>Explorer's Audio Log</NameField>
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>

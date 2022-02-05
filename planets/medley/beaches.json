@@ -53,7 +53,7 @@
                 "sourceRadius": 1,
                 "detectionRadius": 15,
                 "identificationRadius": 3,
-                "onlyAudibleToScope": false
+                "onlyAudibleToScope": true
             }
         ]
     },
