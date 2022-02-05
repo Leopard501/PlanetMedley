@@ -33,7 +33,9 @@
         "hasRain": true,
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 100, "G": 180, "B": 0},
-        "fogTint": {"R": 130, "G": 180, "B": 0}
+        "fogTint": {"R": 130, "G": 180, "B": 0},
+        "fogDensity": 1,
+        "fogSize": 240
     },
     "Signal": {
         "signals": [
