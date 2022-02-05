@@ -1,0 +1,13 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Its alive!!!</Page>
+            <Page>This red stuff on the canyon walls seems to be some kind of moss!</Page>
+            <Page>It must be living off the heat coming from all this lava.</Page>
+            <Page>I can't believe life is possible in such an inhospitable environment, even something so simple!</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

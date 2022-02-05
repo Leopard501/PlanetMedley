@@ -38,8 +38,34 @@
         "size": 140,
         "curve": [{"time": 0, "value": 1}]
     },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": 109.8861, "y": -26.23571, "z": 89.84709},
+                "frequency": "Traveler",
+                "name": "Boiling Canyon audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
     "Props": {
+        "dialogue": [
+            {
+                "position": {"x": 109.8861, "y": -26.23571, "z": 89.84709},
+                "xmlFile": "planets/assets/midnight/canyon.xml"
+            }
+        ],
         "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": 109.8861, "y": -26.23571, "z": 89.84709},
+                "alignToNormal": true
+            },
+
             {
                 "path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_2/Crater_2_Geysers/QuantumGeyser_Small/Geyser_Quantum",
                 "position": {"x": 125.6774, "y": 18.5146, "z": -21.75699},

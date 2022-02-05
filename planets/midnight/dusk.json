@@ -31,5 +31,34 @@
     "Funnel": {
         "target": "Midnight",
         "type": "Lava"
+    },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": -52.05536, "y": -11.78796, "z": 94.59161},
+                "frequency": "Traveler",
+                "name": "Dusk audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
+    "Props": {
+        "dialogue": [
+            {
+                "position": {"x": -52.05536, "y": -11.78796, "z": 94.59161},
+                "xmlFile": "planets/assets/midnight/dusk.xml"
+            }
+        ],
+        "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": -52.05536, "y": -11.78796, "z": 94.59161},
+                "alignToNormal": true
+            }
+        ]
     }
 }

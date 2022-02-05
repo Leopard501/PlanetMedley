@@ -1,0 +1,13 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>It's so dark here...</Page>
+            <Page>And what are those strange shapes in the distance?</Page>
+            <Page>Just oddly shaped rocks? Or something else?</Page>
+            <Page>I don't want to stay here long...</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

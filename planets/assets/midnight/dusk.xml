@@ -1,0 +1,13 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>I can feel the heat coming off the lava even through my spacesuit!</Page>
+            <Page>This planet must be heated by the intense tidal forces coming from the black hole it orbits.</Page>
+            <Page>It's so strong, it feels like it's going to rip the surface of this planet right off!</Page>
+            <Page>That's not possible, is it?</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

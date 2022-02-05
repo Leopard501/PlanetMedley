@@ -24,7 +24,34 @@
         "minHeight": 180,
         "maxHeight": 220
     },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": -103.1176, "y": 91.33141, "z": 121.1164},
+                "frequency": "Traveler",
+                "name": "Bleak Hope audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
     "Props": {
+        "dialogue": [
+            {
+                "position": {"x": -103.1176, "y": 91.33141, "z": 121.1164},
+                "xmlFile": "planets/assets/midnight/bleak.xml"
+            }
+        ],
+        "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": -103.1176, "y": 91.33141, "z": 121.1164},
+                "alignToNormal": true
+            }
+        ],
         "scatter" : [
             {
                 "path" : "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/EYEState_QuantumObjects/EYE_Q_CustomArch/EYE_Q_CustomArch/OtherComponentsGroup/Rocks_EYE_Ridge_Curve_C_R",
