@@ -1,0 +1,14 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>This planet is covered entirely by water and ice!</Page>
+            <Page>It's quite cold because of the dim light from its star, and the constant mini-eclipses from the asteroid belt certainly haven't helped.</Page>
+            <Page>However, it's warm enough that water can at least exist, and the atmosphere is perfectly breathable!</Page>
+            <Page>Despite that, there appears to be no life on this planet at all.</Page>
+            <Page>I wonder why life appears on some planets, but not others?</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

@@ -1,0 +1,15 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Ugh, my boots are getting covered in mud!</Page>
+            <Page>I'm going to end up tracking it all over my spaceship!</Page>
+            <Page>Ack, and now it's starting to rain!</Page>
+            <Page>*sounds of tromping through mud*</Page>
+            <Page>I've managed to seek shelter under this gigantic tree.</Page>
+            <Page>This definitely hasn't been my favorite planet so far...</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>

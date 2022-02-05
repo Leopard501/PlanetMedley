@@ -38,5 +38,34 @@
         "size": 120,
         "tint": {"R": 50, "G": 60, "B": 75},
         "curve": [{"time": 0, "value": 1}]
+    },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": 100.6984, "y": -139.2127, "z": -81.05545},
+                "frequency": "Traveler",
+                "name": "Icy Seas audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
+    "Props": {
+        "dialogue": [
+            {
+                "position": {"x": 100.6984, "y": -139.2127, "z": -81.05545},
+                "xmlFile": "planets/assets/magnificence/seas.xml"
+            }
+        ],
+        "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": 100.6984, "y": -139.2127, "z": -81.05545},
+                "alignToNormal": true
+            }
+        ]
     }
 }

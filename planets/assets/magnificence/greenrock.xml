@@ -1,0 +1,16 @@
+<DialogueTree>
+    <NameField>Explorer's Audio Log</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Wow.</Page>
+            <Page>The view from here is incredible! That star is magnificent!</Page>
+            <Page>And this moon has such beautiful peaks and valleys!</Page>
+            <Page>None of the moons back home have life on them, I wonder if it's because it's so close to the planet below?</Page>
+            <Page>Maybe it picked up its atmosphere from the planet after some ancient collision?</Page>
+            <Page>The air here is technically breathable, but it's so thin...</Page>
+            <Page>Yep, I'll keep my spacesuit on.</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>
