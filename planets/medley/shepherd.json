@@ -26,5 +26,34 @@
         "textureMap": "planets/assets/medley/shepherd_texturemap.png",
         "minHeight": 20,
         "maxHeight": 60
+    },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": -28.21296, "y": 36.76194, "z": -14.75024},
+                "frequency": "Traveler",
+                "name": "Shepherd audio log",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": true
+            }
+        ]
+    },
+    "Props": {
+        "dialogue": [
+            {
+                "position": {"x": -28.21296, "y": 36.76194, "z": -14.75024},
+                "xmlFile": "planets/assets/medley/shepherd.xml"
+            }
+        ],
+        "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": -28.21296, "y": 36.76194, "z": -14.75024},
+                "alignToNormal": true
+            }
+        ]
     }
 }

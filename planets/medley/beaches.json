@@ -48,7 +48,7 @@
             {
                 "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
                 "frequency": "Traveler",
-                "name": "Warm Beaches observations",
+                "name": "Warm Beaches audio log",
                 "audioClip": "OW_PR_ProbeInAirSound",
                 "sourceRadius": 1,
                 "detectionRadius": 15,
