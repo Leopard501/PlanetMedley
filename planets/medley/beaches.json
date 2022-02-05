@@ -8,7 +8,7 @@
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
-    "Spawn_DISABLED": {
+    "Spawn": {
         "playerSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "shipSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "startwithSuit": true
@@ -43,8 +43,34 @@
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 0, "G": 120, "B": 255}
     },
+    "Signal": {
+        "signals": [
+            {
+                "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
+                "frequency": "Traveler",
+                "name": "Warm Beaches observations",
+                "audioClip": "OW_PR_ProbeInAirSound",
+                "sourceRadius": 1,
+                "detectionRadius": 15,
+                "identificationRadius": 3,
+                "onlyAudibleToScope": false
+            }
+        ]
+    },
     "Props": {
+        "dialogue": [
+            {
+                "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
+                "xmlFile": "planets/assets/medley/beaches.xml"
+            }
+        ],
         "details": [
+            {
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+                "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
+                "alignToNormal": true
+            },
+
             {
                 "path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1/Rock_Tree",
                 "position": {"x": -3.821951, "y": 55.09624, "z": 84.70924},

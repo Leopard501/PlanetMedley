@@ -1,0 +1,16 @@
+<DialogueTree>
+    <NameField>Warm Beaches Observations</NameField>
+    <DialogueNode>
+        <Name></Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Well, I just stepped out of the white hole and... <i>wow</i>, what a place to arrive!</Page>
+            <Page>Pleasant, humid, breathable air, warm sand, lapping waves... this place is a paradise!</Page>
+            <Page>I wouldn't mind staying here for a little while...</Page>
+            <Page>Oh yeah, observations! Uh... the sun here seems quite similar to our own.</Page>
+            <Page>I appear to be standing on a moon based on the low gravity and absolutely massive gas giant in the sky.</Page>
+            <Page>I can see other planets in the distance, and even another star that seems quite close!</Page>
+            <Page>I should look around a bit.</Page>
+        </Dialogue>
+    </DialogueNode>
+</DialogueTree>
