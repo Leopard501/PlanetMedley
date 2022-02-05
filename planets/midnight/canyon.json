@@ -16,7 +16,7 @@
         "axialTilt": 10,
         "siderealPeriod": 100,
         "showOrbitLine": true,
-        "tint": {"R": 75, "G": 127, "B": 145, "A": 255}
+        "tint": {"R": 50, "G": 60, "B": 120, "A": 255}
     },
     "HeightMap": {
         "heightMap": "planets/assets/midnight/canyon_heightmap.png",

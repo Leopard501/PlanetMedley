@@ -8,6 +8,11 @@
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
+    "Spawn": {
+        "playerSpawnPoint": {"x": 15.0128, "y": 105.0454, "z": -24.0091},
+        "shipSpawnPoint": {"x": 15.0128, "y": 105.0454, "z": -24.0091},
+        "startwithSuit": true
+    },
     "Orbit": {
         "semiMajorAxis": 1800,
         "inclination": 20,
@@ -27,5 +32,9 @@
     "Lava": {
         "size": 100,
         "curve": [{"time": 0, "value": 1}]
+    },
+    "Funnel": {
+        "target": "Midnight",
+        "type": "Lava"
     }
 }
