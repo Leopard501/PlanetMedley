@@ -7,9 +7,8 @@
 ![Current version](https://img.shields.io/github/manifest-json/v/Leopard501/PlanetMedley)
 ![Downloads](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/total)
 
-A medley of about a dozen planets and moons spread across 3 systems to explore! Travel to them using the 
-interstellar view in the ship's log and the autopilot. Uses blackhole/whitehole gateways to connect the systems, 
-no need to fly the whole 250 km that separates them.  
+A medley of about a dozen planets and moons spread across 3 systems to explore! Each planet and moon has an audio log
+to find! Uses blackhole/whitehole gateways to connect the systems, no need to fly the whole 250 km that separates them.  
   
 ### Screenshots
 
