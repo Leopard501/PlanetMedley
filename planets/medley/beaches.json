@@ -41,7 +41,7 @@
         "size": 150,
         "hasOxygen": true,
         "hasAtmosphere": true,
-        "atmosphereTint": {"R": 0, "G": 120, "B": 255}
+        "atmosphereTint": {"R": 50, "G": 105, "B": 175}
     },
     "Signal": {
         "signals": [
