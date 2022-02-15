@@ -5,7 +5,9 @@
 ![Title image](https://user-images.githubusercontent.com/43260601/150666418-c3f2137f-7bb4-40e5-bb74-c70f6361d768.png)
 
 ![Current version](https://img.shields.io/github/manifest-json/v/Leopard501/PlanetMedley)
-![Downloads](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/total)
+![Total Downloads](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/total)
+![Latest Downloads](https://img.shields.io/github/downloads/Leopard501/PlanetMedley/latest/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/Leopard501/PlanetMedley)
 
 A medley of about a dozen planets and moons spread across 3 systems to explore! Each planet and moon has an audio log
 to find! Uses blackhole/whitehole gateways to connect the systems, no need to fly the whole 250 km that separates them.  
