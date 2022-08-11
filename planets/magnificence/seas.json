@@ -1,12 +1,11 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Icy Seas",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
         "surfaceGravity": 14,
         "surfaceSize": 200,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
     "Orbit": {
         "semiMajorAxis": 13000,
@@ -58,6 +57,11 @@
             {
                 "position": {"x": 100.6984, "y": -139.2127, "z": -81.05545},
                 "xmlFile": "planets/assets/magnificence/seas.xml"
+            }
+        ],
+        "rafts": [
+            {
+                "position": {"x": -1.821609, "y": -122.9594, "z": -136.7101}
             }
         ],
         "details": [

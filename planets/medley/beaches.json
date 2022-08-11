@@ -3,7 +3,7 @@
     "name": "Warm Beaches",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
-        "surfaceGravity": 10,
+        "surfaceGravity": 12,
         "surfaceSize": 100,
         "hasMapMarker": true,
         "hasAmbientLight": true
@@ -62,6 +62,11 @@
             {
                 "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
                 "xmlFile": "planets/assets/medley/beaches.xml"
+            }
+        ],
+        "rafts": [
+            {
+                "position": {"x": -90.27658, "y": 37.45451, "z": 21.1749}
             }
         ],
         "details": [

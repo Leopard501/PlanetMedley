@@ -3,9 +3,10 @@
     "name": "Big Blue",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
-        "surfaceGravity": 20,
+        "surfaceGravity": 14,
         "surfaceSize": 320,
-        "hasMapMarker": true
+        "hasMapMarker": true,
+        "ambientLight": 1
     },
     "Orbit": {
         "semiMajorAxis": 7000,
@@ -19,7 +20,7 @@
         "trueAnomaly": 0,
         "siderealPeriod": 20,
         "showOrbitLine": true,
-        "tint": {"R": 0, "G": 100, "B": 255, "A": 255}
+        "tint": {"r": 0, "g": 100, "b": 255, "a": 255}
     },
     "Ring": {
         "innerRadius": 500,
@@ -51,6 +52,11 @@
         "size": 50
     },
     "Props": {
+        "rafts": [
+            {
+                "position": {"x": -90.27658, "y": 37.45451, "z": 21.1749}
+            }
+        ],
         "tornados": [
             {
                 "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
