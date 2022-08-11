@@ -5,8 +5,7 @@
     "Base": {
         "surfaceGravity": 20,
         "surfaceSize": 320,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
     "Orbit": {
         "semiMajorAxis": 7000,
@@ -33,13 +32,18 @@
     "Atmosphere": {
         "size": 320,
         "fogSize": 320,
-        "cloudTint": {"R": 0, "G": 100, "B": 255, "A": 255},
-        "cloud": "planets/assets/medley/blue_clouds.png",
-        "useBasicCloudShader": false,
-        "fogTint": {"R": 0, "G": 100, "B": 255, "A": 255},
+        "clouds": {
+            "cloudsPrefab": "giantsDeep",
+            "hasLightning": true,
+            "innerCloudRadius": 310,
+            "outerCloudRadius": 330,
+            "texturePath": "planets/assets/medley/blue_clouds.png",
+            "tint": {"r": 0, "g": 100, "b": 255, "a": 255}
+        },
+        "fogTint": {"r": 0, "g": 100, "b": 255, "a": 255},
         "fogDensity": 1,
-        "hasAtmosphere": true,
-        "atmosphereTint": {"R": 0, "G": 100, "B": 255, "A": 255}
+        "atmosphereTint": {"r": 0, "g": 100, "b": 255, "a": 255},
+        "hasRain": true
     },
     "Water": {
         "size": 200
