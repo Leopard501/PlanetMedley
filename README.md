@@ -26,4 +26,7 @@ to find! Uses blackhole/whitehole gateways to connect the systems, no need to fl
 ### Credits
 
 Rainy Valley clouds texturemap by Raychel Sanner  
-[https://unsplash.com/photos/MnnXMvs4cQo](https://unsplash.com/photos/MnnXMvs4cQo)
+[Unsplash](https://unsplash.com/photos/MnnXMvs4cQo)
+
+Travel music by Sirkoto51  
+[Freesound](https://freesound.org/people/Sirkoto51/sounds/370175/)

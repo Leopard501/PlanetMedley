@@ -27,7 +27,8 @@
         "outerRadius": 1000,
         "inclination": 0,
         "longitudeOfAscendingNode": 0,
-        "texture": "planets/assets/medley/blue_rings.png"
+        "texture": "planets/assets/medley/blue_rings.png",
+        "fluidType": "sand"
     },
     "Atmosphere": {
         "size": 320,
