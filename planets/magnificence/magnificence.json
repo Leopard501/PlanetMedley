@@ -3,7 +3,7 @@
     "name": "Magnificence",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
-        "surfaceGravity": 100,
+        "surfaceGravity": 50,
         "surfaceSize": 1500,
         "hasMapMarker": true,
         "gravityFallOff": "inverseSquared"

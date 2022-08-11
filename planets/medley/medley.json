@@ -3,7 +3,7 @@
     "name": "Medley",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
-        "surfaceGravity": 100,
+        "surfaceGravity": 50,
         "surfaceSize": 2000,
         "hasMapMarker": true,
         "gravityFallOff": "inverseSquared",
