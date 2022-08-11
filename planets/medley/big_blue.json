@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Big Blue",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
@@ -22,6 +22,13 @@
         "showOrbitLine": true,
         "tint": {"R": 0, "G": 100, "B": 255, "A": 255}
     },
+    "Ring": {
+        "innerRadius": 500,
+        "outerRadius": 1000,
+        "inclination": 0,
+        "longitudeOfAscendingNode": 0,
+        "texture": "planets/assets/medley/blue_rings.png"
+    },
     "Atmosphere": {
         "size": 320,
         "fogSize": 320,
@@ -33,11 +40,62 @@
         "hasAtmosphere": true,
         "atmosphereTint": {"R": 0, "G": 100, "B": 255, "A": 255}
     },
-    "Ring": {
-        "innerRadius": 500,
-        "outerRadius": 1000,
-        "inclination": 0,
-        "longitudeOfAscendingNode": 0,
-        "texture": "planets/assets/medley/blue_rings.png"
+    "Water": {
+        "size": 200
+    },
+    "Lava": {
+        "size": 50
+    },
+    "Props": {
+        "tornados": [
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            },
+            {
+                "tint": {"r": 0, "g": 100, "b": 255, "a": 255},
+                "elevation": 200,
+                "height": 100,
+                "type": "upwards"
+            }
+        ]
     }
 }
