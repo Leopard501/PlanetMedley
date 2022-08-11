@@ -10,7 +10,7 @@
     },
     "Orbit": {
         "isStatic": true,
-        "semiMajorAxis": 250000,
+        "semiMajorAxis": 100000,
         "primaryBody": "Medley",
         "showOrbitLine": false
     },

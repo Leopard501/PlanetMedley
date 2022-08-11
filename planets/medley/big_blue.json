@@ -34,7 +34,6 @@
         "fogSize": 320,
         "clouds": {
             "cloudsPrefab": "giantsDeep",
-            "hasLightning": true,
             "innerCloudRadius": 310,
             "outerCloudRadius": 330,
             "texturePath": "planets/assets/medley/blue_clouds.png",

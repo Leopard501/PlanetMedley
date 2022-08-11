@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Medley",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
@@ -12,8 +12,7 @@
     "Orbit": {"isStatic": true},
     "Star": {
         "size": 2000,
-        "tint": {"R": 255, "G": 150, "B": 50, "A": 255},
-        "solarFlareTint": {"R": 255, "G": 150, "B": 50, "A": 255},
-        "solarLuminosity": 1
+        "tint": {"r": 255, "g": 150, "b": 50, "a": 255},
+        "goSupernova": false
     }
 }
