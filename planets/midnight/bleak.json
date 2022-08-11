@@ -1,12 +1,11 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Bleak Hope",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
         "surfaceGravity": 20,
         "surfaceSize": 180,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
     "Orbit": {
         "semiMajorAxis": 8000,

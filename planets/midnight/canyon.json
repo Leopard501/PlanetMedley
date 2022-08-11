@@ -1,12 +1,16 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Boiling Canyon",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
         "surfaceGravity": 10,
         "surfaceSize": 150,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
+    },
+    "Spawn": {
+        "playerSpawnPoint": {"x": -142.6919, "y": 98.64414, "z": -59.85932},
+        "shipSpawnPoint": {"x": -142.6919, "y": 98.64414, "z": -59.85932},
+        "startWithSuit": true
     },
     "Orbit": {
         "semiMajorAxis": 4000,
@@ -27,7 +31,7 @@
     "Atmosphere": {
         "size": 180,
         "hasOxygen": true,
-        "hasAtmosphere": true,
+        "atmosphereSunIntensity": 0,
         "atmosphereTint": {"r" : 50, "g" : 0, "b" : 150, "a" : 255}
     },
     "Water": {

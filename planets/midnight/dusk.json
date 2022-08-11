@@ -1,12 +1,11 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Dusk",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
         "surfaceGravity": 8,
         "surfaceSize": 100,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
     "Orbit": {
         "semiMajorAxis": 1800,
@@ -30,7 +29,7 @@
     },
     "Funnel": {
         "target": "Midnight",
-        "type": "Lava"
+        "type": "lava"
     },
     "Signal": {
         "signals": [
