@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>beaches_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>Well, I just stepped out of the white hole and... <i>wow</i>, what a place to arrive!</Page>
             <Page>Pleasant, humid, breathable air, warm sand, lapping waves... this place is a paradise!</Page>

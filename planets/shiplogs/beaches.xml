@@ -1,0 +1,19 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>beaches</ID>
+    <Entry>
+        <ID>beaches_log</ID>
+        <Name>Warm Beaches Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorRaft>
+            <ID>beaches_log_rumor</ID>
+            <RumorName>Nearby Signal</RumorName>
+            <Text>There is a signal coming from nearby.</Text>
+        </RumorRaft>
+
+        <ExploreFact>
+            <ID>beaches_log_explore</ID>
+            <Text>A traveler warped to this tropical moon from Timber Hearth. They left a raft somewhere on this moon.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

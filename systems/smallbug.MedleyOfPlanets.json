@@ -1,5 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
     "enableTimeLoop": false,
-    "travelAudio": "planets/assets/audio/travel.wav"
+    "travelAudio": "planets/assets/audio/travel.wav",
+    "initialReveal": ["beaches_log_rumor"],
+    "curiosities": [
+        {
+            "id": "travelers_logs",
+            "color": {"r": 220, "g": 101, "b": 64, "a": 255},
+            "highlightColor": {"r": 255, "g": 141, "b": 74, "a": 255}
+        }
+    ]
 }
