@@ -30,3 +30,6 @@ Rainy Valley clouds texturemap by Raychel Sanner
 
 Travel music by Sirkoto51  
 [Freesound](https://freesound.org/people/Sirkoto51/sounds/370175/)
+
+Midnight theme by Sirkoto51  
+[Freesound](https://freesound.org/people/Sirkoto51/sounds/427452/)

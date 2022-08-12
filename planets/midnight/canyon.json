@@ -7,7 +7,7 @@
         "surfaceSize": 150,
         "hasMapMarker": true
     },
-    "Spawn_DISABLED": {
+    "Spawn": {
         "playerSpawnPoint": {"x": -142.6919, "y": 98.64414, "z": -59.85932},
         "shipSpawnPoint": {"x": -142.6919, "y": 98.64414, "z": -59.85932},
         "startWithSuit": true

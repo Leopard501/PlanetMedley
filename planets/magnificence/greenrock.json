@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Greenrock",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
@@ -8,7 +8,7 @@
         "hasMapMarker": true,
         "hasAmbientLight": true
     },
-    "Spawn": {
+    "Spawn_DISABLED": {
         "playerSpawnPoint": {"x": 28.65728, "y": 43.50728, "z": 55.09988},
         "shipSpawnPoint": {"x": 28.65728, "y": 43.50728, "z": 55.09988},
         "startWithSuit": true

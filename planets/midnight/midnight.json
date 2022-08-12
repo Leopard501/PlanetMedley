@@ -35,5 +35,19 @@
     "Singularity": {
         "size": 1000,
         "type": "BlackHole"
+    },
+    "Props": {
+        "audioVolumes": [
+            {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "radius": 50000,
+                "audio": "planets/assets/audio/midnight.wav",
+                "track": "music"
+            }
+        ]
     }
 }
