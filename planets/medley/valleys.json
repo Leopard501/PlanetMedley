@@ -3,7 +3,8 @@
     "name": "Rainy Valley",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
-        "surfaceGravity": 9,
+        "comment": "Gravity provided by `valleys_gravity`",
+        "surfaceGravity": 0,
         "surfaceSize": 160,
         "hasMapMarker": true
     },

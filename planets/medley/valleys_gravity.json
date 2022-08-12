@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Rainy Valley Gravity",
+    "starSystem": "smallbug.MedleyOfPlanets",
+    "Base": {
+        "surfaceGravity": 9,
+        "surfaceSize": 160,
+        "hasMapMarker": false,
+        "groundSize": 90,
+        "showMinimap": false
+    },
+    "ReferenceFrame": {
+        "enabled": false
+    },
+    "canShowOnTitle": false,
+    "Orbit": {
+        "semiMajorAxis": 10000,
+        "inclination": 5,
+        "primaryBody": "Medley",
+        "isMoon": false,
+        "longitudeOfAscendingNode": 50,
+        "eccentricity": 0,
+        "argumentOfPeriapsis": 286,
+        "axialTilt": 10,
+        "trueAnomaly": 19.4,
+        "siderealPeriod": 50,
+        "showOrbitLine": false,
+        "tint": {"R": 80, "G": 80, "B": 100, "A": 255}
+    }
+}
