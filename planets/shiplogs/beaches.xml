@@ -5,15 +5,15 @@
         <Name>Warm Beaches Traveler's Log</Name>
         <Curiosity>travelers_logs</Curiosity>
 
-        <RumorRaft>
+        <RumorFact>
             <ID>beaches_log_rumor</ID>
             <RumorName>Nearby Signal</RumorName>
             <Text>There is a signal coming from nearby.</Text>
-        </RumorRaft>
+        </RumorFact>
 
         <ExploreFact>
             <ID>beaches_log_explore</ID>
-            <Text>A traveler warped to this tropical moon from Timber Hearth. They left a raft somewhere on this moon.</Text>
+            <Text>A traveler warped to this watery moon from Timber Hearth. They left a raft somewhere on this moon.</Text>
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

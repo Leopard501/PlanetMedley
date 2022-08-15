@@ -48,6 +48,10 @@
             "innerCloudRadius": 135
         }
     },
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/valleys.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
     "Props": {
         "dialogue": [
             {

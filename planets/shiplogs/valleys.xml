@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>valleys</ID>
+    <Entry>
+        <ID>valleys_log</ID>
+        <Name>Rainy Valley Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>valleys_log_rumor</ID>
+            <SourceID>beaches_log</SourceID>
+            <RumorName>Foggy Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a distant foggy planet.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>valleys_log_explore</ID>
+            <Text>The traveler visited this rainy planet, and discovered that life only exists here above the cloud layer where its sunny and cool.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

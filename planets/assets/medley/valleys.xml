@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>valleys_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>Most of this planet is covered in thick water vapor fog, casting these valleys in darkness and warming them via a greenhouse effect.</Page>
             <Page>Interestingly enough, it seems its so dark and hot that life isn't possible across most of the surface!</Page>

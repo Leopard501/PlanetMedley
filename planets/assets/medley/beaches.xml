@@ -5,6 +5,7 @@
         <EntryCondition>DEFAULT</EntryCondition>
         <RevealFacts>
             <FactID>beaches_log_explore</FactID>
+            <FactID>valleys_log_rumor</FactID>
         </RevealFacts>
         <Dialogue>
             <Page>Well, I just stepped out of the white hole and... <i>wow</i>, what a place to arrive!</Page>

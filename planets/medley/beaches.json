@@ -6,7 +6,7 @@
         "surfaceGravity": 12,
         "surfaceSize": 100,
         "hasMapMarker": true,
-        "hasAmbientLight": true
+        "todo": "zero g volume?"
     },
     "Spawn": {
         "playerSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
@@ -56,8 +56,7 @@
                 "sourceRadius": 1,
                 "detectionRadius": 15,
                 "identificationRadius": 3,
-                "onlyAudibleToScope": true,
-                "reveals": "beaches_log_rumor"
+                "onlyAudibleToScope": true
             }
         ],
         "dialogue": [
