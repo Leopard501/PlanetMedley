@@ -62,7 +62,7 @@
         "dialogue": [
             {
                 "position": {"x": -82.44379, "y": 39.30034, "z": 43.20869},
-                "xmlFile": "planets/assets/medley/beaches.xml"
+                "xmlFile": "planets/assets/dialogue/beaches.xml"
             }
         ],
         "rafts": [

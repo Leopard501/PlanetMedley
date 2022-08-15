@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>shepherd_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>This small moon appears to have cleared a gap in Big Blue's rings!</Page>
             <Page>It's gravity must be keeping the tiny particles to either side of itself, like it's shepherding them.</Page>

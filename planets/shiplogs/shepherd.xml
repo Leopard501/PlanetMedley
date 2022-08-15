@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>shepherd</ID>
+    <Entry>
+        <ID>shepherd_log</ID>
+        <Name>Shepherd Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>shepherd_log_rumor</ID>
+            <SourceID>beaches_log</SourceID>
+            <RumorName>Moon Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a nearby small moon.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>shepherd_log_explore</ID>
+            <Text>The traveler visited this small moon, and discovered its gravity clears a path through Big Blue's rings.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

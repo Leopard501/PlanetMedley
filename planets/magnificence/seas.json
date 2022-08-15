@@ -56,7 +56,7 @@
         "dialogue": [
             {
                 "position": {"x": 100.6984, "y": -139.2127, "z": -81.05545},
-                "xmlFile": "planets/assets/magnificence/seas.xml"
+                "xmlFile": "planets/assets/dialogue/seas.xml"
             }
         ],
         "rafts": [

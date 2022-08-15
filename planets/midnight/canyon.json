@@ -60,7 +60,7 @@
         "dialogue": [
             {
                 "position": {"x": 109.8861, "y": -26.23571, "z": 89.84709},
-                "xmlFile": "planets/assets/midnight/canyon.xml"
+                "xmlFile": "planets/assets/dialogue/canyon.xml"
             }
         ],
         "details": [

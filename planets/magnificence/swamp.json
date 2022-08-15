@@ -55,7 +55,7 @@
         "dialogue": [
             {
                 "position": {"x": -193.7317, "y": 18.32634, "z": -38.11653},
-                "xmlFile": "planets/assets/magnificence/swamp.xml"
+                "xmlFile": "planets/assets/dialogue/swamp.xml"
             }
         ],
         "scatter" : [

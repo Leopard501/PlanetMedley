@@ -41,7 +41,7 @@
         "dialogue": [
             {
                 "position": {"x": -103.1176, "y": 91.33141, "z": 121.1164},
-                "xmlFile": "planets/assets/midnight/bleak.xml"
+                "xmlFile": "planets/assets/dialogue/bleak.xml"
             }
         ],
         "details": [

@@ -57,7 +57,7 @@
         "dialogue": [
             {
                 "position": {"x": 139.2079, "y": -4.045639, "z": -54.82619},
-                "xmlFile": "planets/assets/medley/forest.xml"
+                "xmlFile": "planets/assets/dialogue/forest.xml"
             }
         ],
         "details": [

@@ -49,7 +49,7 @@
         "dialogue": [
             {
                 "position": {"x": -52.05536, "y": -11.78796, "z": 94.59161},
-                "xmlFile": "planets/assets/midnight/dusk.xml"
+                "xmlFile": "planets/assets/dialogue/dusk.xml"
             }
         ],
         "details": [

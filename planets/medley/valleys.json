@@ -56,7 +56,7 @@
         "dialogue": [
             {
                 "position": {"x": -47.37504, "y": 172.0377, "z": -98.8937},
-                "xmlFile": "planets/assets/medley/valleys.xml"
+                "xmlFile": "planets/assets/dialogue/valleys.xml"
             }
         ],
         "signals": [

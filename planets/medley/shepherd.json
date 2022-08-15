@@ -41,11 +41,15 @@
             }
         ]
     },
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/shepherd.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
     "Props": {
         "dialogue": [
             {
                 "position": {"x": -28.21296, "y": 36.76194, "z": -14.75024},
-                "xmlFile": "planets/assets/medley/shepherd.xml"
+                "xmlFile": "planets/assets/dialogue/shepherd.xml"
             }
         ],
         "details": [
