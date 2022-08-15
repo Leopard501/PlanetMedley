@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>seas</ID>
+    <Entry>
+        <ID>seas_log</ID>
+        <Name>Icy Seas Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>seas_log_rumor</ID>
+            <SourceID>to_magnificence_wormhole</SourceID>
+            <RumorName>Watery Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a watery planet distantly orbiting this star.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>seas_log_explore</ID>
+            <Text>The traveler was surprised that despite the breathable atmosphere and liquid water oceans, this icy planet appears to have no life on it at all.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

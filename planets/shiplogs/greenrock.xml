@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>greenrock</ID>
+    <Entry>
+        <ID>greenrock_log</ID>
+        <Name>Greenrock Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>greenrock_log_rumor</ID>
+            <SourceID>to_magnificence_wormhole</SourceID>
+            <RumorName>Moon Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a mountainous moon of the green-brown planet.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>greenrock_log_explore</ID>
+            <Text>The traveler was amazed to find life on this mountainous moon, despite the low gravity and thin atmosphere</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

@@ -14,7 +14,6 @@
         "trueAnomaly": 60,
         "showOrbitLine": true
     },
-
     "ShipLog": {
         "xmlFile": "planets/shiplogs/to_magnificence.xml",
         "spriteFolder": "planets/shiplogs/sprites"
@@ -32,7 +31,12 @@
                 "position": {"x": 0, "y": 0, "z": 0},
                 "radius": 100,
                 "revealOn": "enter",
-                "reveals": ["to_magnificence_wormhole_explore"]
+                "reveals": [
+                    "to_magnificence_wormhole_explore",
+                    "swamp_log_rumor",
+                    "greenrock_log_rumor",
+                    "seas_log_rumor"
+                ]
             }
         ]
     }

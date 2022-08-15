@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>greenrock_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>Wow.</Page>
             <Page>The view from here is incredible! That star is magnificent!</Page>

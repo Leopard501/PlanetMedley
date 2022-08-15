@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>seas_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>This planet is covered entirely by water and ice!</Page>
             <Page>It's quite cold because of the dim light from its star, and the constant mini-eclipses from the asteroid belt certainly haven't helped.</Page>

@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>swamp_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>Ugh, my boots are getting covered in mud!</Page>
             <Page>I'm going to end up tracking it all over my spaceship!</Page>
