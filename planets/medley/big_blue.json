@@ -51,10 +51,22 @@
     "Lava": {
         "size": 50
     },
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/blue.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
     "Props": {
         "rafts": [
             {
                 "position": {"x": -90.27658, "y": 37.45451, "z": 21.1749}
+            }
+        ],
+        "reveal": [
+            {
+                "position": {"x": 0, "y": 0, "z": 0},
+                "radius": 310,
+                "revealOn": "enter",
+                "reveals": ["blue_misc_explore"]
             }
         ],
         "tornados": [

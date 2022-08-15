@@ -8,6 +8,11 @@
             "id": "travelers_logs",
             "color": {"r": 220, "g": 101, "b": 64, "a": 255},
             "highlightColor": {"r": 255, "g": 141, "b": 74, "a": 255}
+        },
+        {
+            "id": "misc",
+            "color": {"r": 115, "g": 50, "b": 211, "a": 255},
+            "highlightColor": {"r": 160, "g": 25, "b": 230, "a": 255}
         }
     ]
 }

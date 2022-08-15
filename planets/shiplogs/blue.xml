@@ -1,0 +1,13 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>blue</ID>
+    <Entry>
+        <ID>blue_misc</ID>
+        <Name>Big Blue</Name>
+        <Curiosity>misc</Curiosity>
+
+        <ExploreFact>
+            <ID>blue_misc_explore</ID>
+            <Text>Under this planet's thick clouds is a massive churning sea and whirling tornadoes. I should probably stay in my ship.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>
