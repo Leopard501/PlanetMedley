@@ -53,6 +53,10 @@
             }
         ]
     },
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/forest.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
     "Props": {
         "dialogue": [
             {

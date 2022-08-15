@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>forest_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>This planet is tidally locked; one side always faces the sun and the other is always dark!</Page>
             <Page>The Attlerock is tidally locked to Timber Hearth, but there's nothing back home that's tidally locked to the sun.</Page>

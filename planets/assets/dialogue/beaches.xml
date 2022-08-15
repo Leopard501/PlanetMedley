@@ -7,9 +7,10 @@
             <FactID>beaches_log_explore</FactID>
             <FactID>valleys_log_rumor</FactID>
             <FactID>shepherd_log_rumor</FactID>
+            <FactID>forest_log_rumor</FactID>
         </RevealFacts>
         <Dialogue>
-            <Page>Well, I just stepped out of the white hole and... <i>wow</i>, what a place to arrive!</Page>
+            <Page>Well, I just stepped out of the white hole and... wow, what a place to arrive!</Page>
             <Page>Pleasant, humid, breathable air, warm sand, lapping waves... this place is a paradise!</Page>
             <Page>Good thing I brought this raft!</Page>
             <Page>I wouldn't mind staying here for a little while...</Page>

@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>forest</ID>
+    <Entry>
+        <ID>forest_log</ID>
+        <Name>Twilit Forest Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>forest_log_rumor</ID>
+            <SourceID>beaches_log</SourceID>
+            <RumorName>Banded Planet</RumorName>
+            <Text>There is a traveler's log signal coming from a planet with a green band down its meridian.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>forest_log_explore</ID>
+            <Text>The traveler visited this odd planet, and discovered that it's tidally locked to Medley, with one half always facing away and the other towards. This turns the day side into a desert and the night into a glacier, with a forest between them.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>
