@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>to_magnificence</ID>
+    <Entry>
+        <ID>to_magnificence_wormhole</ID>
+        <Name>Magnificence Gateway</Name>
+        <Curiosity>wormhole</Curiosity>
+
+        <RumorFact>
+            <ID>to_magnificence_wormhole_rumor</ID>
+            <SourceID>beaches_log</SourceID>
+            <RumorName>Distant Signals</RumorName>
+            <Text>There are distant traveler's log signals coming from a nearby star, but how do I get there?</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>to_magnificence_wormhole_explore</ID>
+            <Text>There is a black hole on the edge of the Medley system that leads to a nearby star system.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

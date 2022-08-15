@@ -8,6 +8,7 @@
             <FactID>valleys_log_rumor</FactID>
             <FactID>shepherd_log_rumor</FactID>
             <FactID>forest_log_rumor</FactID>
+            <FactID>to_magnificence_wormhole_rumor</FactID>
         </RevealFacts>
         <Dialogue>
             <Page>Well, I just stepped out of the white hole and... wow, what a place to arrive!</Page>
