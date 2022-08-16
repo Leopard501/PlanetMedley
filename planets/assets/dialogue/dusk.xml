@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>dusk_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>I can feel the heat coming off the lava even through my spacesuit!</Page>
             <Page>This planet must be heated by the intense tidal forces coming from the black hole it orbits.</Page>

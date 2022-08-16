@@ -8,7 +8,7 @@
         "hasMapMarker": true,
         "todo": "zero g volume?"
     },
-    "Spawn": {
+    "Spawn_DISABLEDwd": {
         "playerSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "shipSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "startWithSuit": true

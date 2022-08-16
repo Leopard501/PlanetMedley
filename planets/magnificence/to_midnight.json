@@ -32,7 +32,12 @@
                 "radius": 100,
                 "revealOn": "enter",
                 "reveals": [
-                    "to_midnight_wormhole_explore"
+                    "to_midnight_wormhole_explore",
+                    "canyon_log_rumor",
+                    "bleak_log_rumor",
+                    "dusk_log_rumor",
+                    "midnight_wormhole_rumor",
+                    "to_medley_wormhole_rumor"
                 ]
             }
         ]

@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>canyon_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>Its alive!!!</Page>
             <Page>This red stuff on the canyon walls seems to be some kind of moss!</Page>

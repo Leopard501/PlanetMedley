@@ -37,6 +37,10 @@
             }
         ]
     },
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/bleak.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
     "Props": {
         "dialogue": [
             {

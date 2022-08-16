@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>to_medley</ID>
+    <Entry>
+        <ID>to_medley_wormhole</ID>
+        <Name>Medley Gateway</Name>
+        <Curiosity>wormhole</Curiosity>
+
+        <RumorFact>
+            <ID>to_medley_wormhole_rumor</ID>
+            <SourceID>to_midnight_wormhole</SourceID>
+            <RumorName>Third Gateway</RumorName>
+            <Text>There is another black hole near Midnight, where does it lead?</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>to_medley_wormhole_explore</ID>
+            <Text>There is a black hole near Midnight that leads back to Medley.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

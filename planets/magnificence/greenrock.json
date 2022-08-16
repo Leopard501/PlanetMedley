@@ -5,10 +5,9 @@
     "Base": {
         "surfaceGravity": 6,
         "surfaceSize": 80,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
-    "Spawn_DISABLED": {
+    "Spawn": {
         "playerSpawnPoint": {"x": 28.65728, "y": 43.50728, "z": 55.09988},
         "shipSpawnPoint": {"x": 28.65728, "y": 43.50728, "z": 55.09988},
         "startWithSuit": true
@@ -32,7 +31,6 @@
     "Atmosphere": {
         "size": 110,
         "hasOxygen": true,
-        "hasAtmosphere": true,
         "atmosphereTint": {"R": 100, "G": 150, "B": 255}
     },
     "Signal": {

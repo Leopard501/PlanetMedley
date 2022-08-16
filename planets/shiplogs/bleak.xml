@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>bleak</ID>
+    <Entry>
+        <ID>bleak_log</ID>
+        <Name>Bleak Hope Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>bleak_log_rumor</ID>
+            <SourceID>to_midnight_wormhole</SourceID>
+            <RumorName>Dark Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a dark planet orbiting far from the black hole.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>bleak_log_explore</ID>
+            <Text>The traveler observed odd shapes in the shadows of this dark planet.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

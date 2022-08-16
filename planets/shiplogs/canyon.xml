@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>canyon</ID>
+    <Entry>
+        <ID>canyon_log</ID>
+        <Name>Boiling Canyon Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>canyon_log_rumor</ID>
+            <SourceID>to_midnight_wormhole</SourceID>
+            <RumorName>Canyon Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a canyon-split planet orbiting this black hole.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>canyon_log_explore</ID>
+            <Text>The traveler was amazed to find red moss living off the heat from the lava at the base of this planet's canyons.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

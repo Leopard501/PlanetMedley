@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>dusk</ID>
+    <Entry>
+        <ID>dusk_log</ID>
+        <Name>Dusk Traveler's Log</Name>
+        <Curiosity>travelers_logs</Curiosity>
+
+        <RumorFact>
+            <ID>dusk_log_rumor</ID>
+            <SourceID>to_midnight_wormhole</SourceID>
+            <RumorName>Fiery Signal</RumorName>
+            <Text>There is a traveler's log signal coming from a small fiery planet that appears to be being pulled into the black hole.</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>dusk_log_explore</ID>
+            <Text>The traveler theorized that this planet's intense heat and flowing lava are due to tidal forces from Midnight's intense gravity.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

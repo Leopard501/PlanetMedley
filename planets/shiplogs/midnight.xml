@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>midnight</ID>
+    <Entry>
+        <ID>midnight_wormhole</ID>
+        <Name>Through Midnight</Name>
+        <Curiosity>wormhole</Curiosity>
+
+        <RumorFact>
+            <ID>midnight_wormhole_rumor</ID>
+            <SourceID>to_magnificence_wormhole</SourceID>
+            <RumorName>Through the Black Hole</RumorName>
+            <Text>I wonder what's on the other side of the gigantic black hole?</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>midnight_wormhole_explore</ID>
+            <Text>Instant Death is on the other side of Midnight.</Text>
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

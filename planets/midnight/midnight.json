@@ -15,38 +15,40 @@
         "showOrbitLine": false
     },
     "Star": {
-        "lightTint": {
-            "r": 255,
-            "g": 200,
-            "b": 100,
-            "a": 255
-        },
-        "tint": {
-            "r": 203,
-            "g": 50,
-            "b": 8,
-            "a": 255
-        },
+        "lightTint": {"r": 255, "g": 200, "b": 100, "a": 255},
+        "tint": {"r": 203, "g": 50, "b": 8, "a": 255},
         "hasAtmosphere": true,
         "goSupernova": false,
         "size": 1,
         "solarLuminosity": 0.3
     },
-    "Singularity": {
-        "size": 1000,
-        "type": "BlackHole"
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/midnight.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
     },
     "Props": {
+        "singularities": [
+            {
+                "size": 1000,
+                "type": "blackHole"
+            }
+        ],
         "audioVolumes": [
             {
-                "position": {
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
-                },
+                "position": {"x": 0, "y": 0, "z": 0},
                 "radius": 50000,
                 "audio": "planets/assets/audio/midnight.wav",
                 "track": "music"
+            }
+        ],
+        "reveal": [
+            {
+                "position": {"x": 0, "y": 0, "z": 0},
+                "radius": 1000,
+                "revealOn": "enter",
+                "reveals": [
+                    "midnight_wormhole_explore"
+                ]
             }
         ]
     }

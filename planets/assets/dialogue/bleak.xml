@@ -3,6 +3,9 @@
     <DialogueNode>
         <Name></Name>
         <EntryCondition>DEFAULT</EntryCondition>
+        <RevealFacts>
+            <FactID>bleak_log_explore</FactID>
+        </RevealFacts>
         <Dialogue>
             <Page>It's so dark here...</Page>
             <Page>And what are those strange shapes in the distance?</Page>
