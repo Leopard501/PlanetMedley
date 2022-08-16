@@ -50,7 +50,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/valleys.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/valleys.png"
+        }
     },
     "Props": {
         "dialogue": [

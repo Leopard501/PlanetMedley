@@ -1,12 +1,11 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Twilit Forest",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
         "surfaceGravity": 12,
         "surfaceSize": 150,
-        "hasMapMarker": true,
-        "hasAmbientLight": true
+        "hasMapMarker": true
     },
     "Orbit": {
         "semiMajorAxis": 4000,
@@ -31,7 +30,6 @@
     "Atmosphere": {
         "size": 200,
         "hasOxygen": true,
-        "hasAtmosphere": true,
         "atmosphereTint": {"R": 0, "G": 50, "B": 255}
     },
     "Sand": {
@@ -39,25 +37,26 @@
         "tint": {"R": 220, "G": 200, "B": 120},
         "curve": [{"time": 0, "value": 1}]
     },
-    "Signal": {
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/forest.xml",
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/forest.png"
+        }
+    },
+    "Props": {
         "signals": [
             {
                 "position": {"x": 139.2079, "y": -4.045639, "z": -54.82619},
                 "frequency": "Traveler",
                 "name": "Twilit Forest audio log",
-                "audioClip": "OW_PR_ProbeInAirSound",
+                "audio": "OW_PR_ProbeInAirSound",
                 "sourceRadius": 1,
                 "detectionRadius": 15,
                 "identificationRadius": 3,
                 "onlyAudibleToScope": true
             }
-        ]
-    },
-    "ShipLog": {
-        "xmlFile": "planets/shiplogs/forest.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
-    },
-    "Props": {
+        ],
         "dialogue": [
             {
                 "position": {"x": 139.2079, "y": -4.045639, "z": -54.82619},

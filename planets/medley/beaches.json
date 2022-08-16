@@ -8,7 +8,7 @@
         "hasMapMarker": true,
         "todo": "zero g volume?"
     },
-    "Spawn_DISABLEDwd": {
+    "Spawn": {
         "playerSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "shipSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
         "startWithSuit": true
@@ -34,7 +34,7 @@
         "maxHeight": 110
     },
     "Water": {
-        "tint": {"R": 0, "G": 150, "B": 255},
+        "tint": {"r": 0, "g": 150, "b": 255, "a": 255},
         "size": 100
     },
     "Atmosphere": {
@@ -44,7 +44,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/beaches.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/beaches.png"
+        }
     },
     "Props": {
         "signals": [

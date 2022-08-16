@@ -12,6 +12,11 @@
     "ReferenceFrame": {
         "enabled": false
     },
+    "ShipLog": {
+        "mapMode": {
+            "remove": true
+        }
+    },
     "canShowOnTitle": false,
     "Orbit": {
         "semiMajorAxis": 10000,

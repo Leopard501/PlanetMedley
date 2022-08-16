@@ -16,7 +16,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/to_midnight.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/blackhole.png"
+        }
     },
     "Props": {
         "singularities": [

@@ -18,5 +18,10 @@
         "size": 100,
         "type": "WhiteHole",
         "pairedSingularity": "Midnight Gateway"
+    },
+    "ShipLog": {
+        "mapMode": {
+            "remove": true
+        }
     }
 }
