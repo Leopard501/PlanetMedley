@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "Midnight Gateway",
     "starSystem": "smallbug.MedleyOfPlanets",
     "Base": {
@@ -14,9 +14,27 @@
         "primaryBody": "Magnificence",
         "showOrbitLine": true
     },
-    "Singularity": {
-        "size": 100,
-        "type": "BlackHole",
-        "pairedSingularity": "Midnight Entrance"
+    "ShipLog": {
+        "xmlFile": "planets/shiplogs/to_midnight.xml",
+        "spriteFolder": "planets/shiplogs/sprites"
+    },
+    "Props": {
+        "singularities": [
+            {
+                "size": 100,
+                "type": "blackHole",
+                "pairedSingularity": "Midnight Entrance"
+            }
+        ],
+        "reveal": [
+            {
+                "position": {"x": 0, "y": 0, "z": 0},
+                "radius": 100,
+                "revealOn": "enter",
+                "reveals": [
+                    "to_midnight_wormhole_explore"
+                ]
+            }
+        ]
     }
 }
