@@ -5,8 +5,7 @@
     "Base": {
         "surfaceGravity": 12,
         "surfaceSize": 100,
-        "hasMapMarker": true,
-        "todo": "zero g volume?"
+        "hasMapMarker": true
     },
     "Spawn": {
         "playerSpawnPoint": {"x": -90.33177, "y": 26.02423, "z": 35.76788},
@@ -60,6 +59,20 @@
                 "detectionRadius": 15,
                 "identificationRadius": 3,
                 "onlyAudibleToScope": true
+            }
+        ],
+        "reveal": [
+            {
+                "position": {"x": 83.21793, "y": -38.68422, "z": 40.40871},
+                "revealOn": "enter",
+                "radius": 30,
+                "reveals": ["beaches_misc_explore"]
+            }
+        ],
+        "entryLocation": [
+            {
+                "id": "beaches_misc_explore",
+                "position": {"x": 83.21793, "y": -38.68422, "z": 40.40871}
             }
         ],
         "dialogue": [

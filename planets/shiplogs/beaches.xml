@@ -13,7 +13,28 @@
 
         <ExploreFact>
             <ID>beaches_log_explore</ID>
-            <Text>A traveler warped to this watery moon from Timber Hearth. They left a raft somewhere on this moon.</Text>
+            <Text>A traveler warped to this watery moon from Timber Hearth. </Text>
+        </ExploreFact>
+        <ExploreFact>
+            <ID>beaches_log_explore_b</ID>
+            <Text>There are signals similar to the one emitted by this audio log coming from other planets and moons in this system.</Text>
+        </ExploreFact>
+    </Entry>
+    <Entry>
+        <ID>beaches_misc</ID>
+        <Name>Traveler's Raft</Name>
+        <Curiosity>misc</Curiosity>
+
+        <RumorFact>
+            <ID>beaches_misc_rumor</ID>
+            <SourceID>beaches_log</SourceID>
+            <RumorName>Traveler's Raft</RumorName>
+            <Text>The traveler said they brought a raft. Is it still somewhere on this moon?</Text>
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>beaches_misc_explore</ID>
+            <Text>The traveler left their raft washed up on a beach on this moon. Big Blue's gravity causes it to behave unpredictably.</Text>
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

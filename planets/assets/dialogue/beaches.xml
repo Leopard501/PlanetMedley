@@ -5,6 +5,8 @@
         <EntryCondition>DEFAULT</EntryCondition>
         <RevealFacts>
             <FactID>beaches_log_explore</FactID>
+            <FactID>beaches_log_explore_b</FactID>
+            <FactID>beaches_misc_rumor</FactID>
             <FactID>valleys_log_rumor</FactID>
             <FactID>shepherd_log_rumor</FactID>
             <FactID>forest_log_rumor</FactID>
