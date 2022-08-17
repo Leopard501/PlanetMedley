@@ -53,7 +53,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/swamp.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/swamp.png"
+        }
     },
     "Props": {
         "dialogue": [

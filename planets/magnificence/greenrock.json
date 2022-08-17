@@ -49,7 +49,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/greenrock.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/greenrock.png"
+        }
     },
     "Props": {
         "dialogue": [

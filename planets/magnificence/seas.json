@@ -54,7 +54,10 @@
     },
     "ShipLog": {
         "xmlFile": "planets/shiplogs/seas.xml",
-        "spriteFolder": "planets/shiplogs/sprites"
+        "spriteFolder": "planets/shiplogs/sprites",
+        "mapMode": {
+            "revealedSprite": "planets/shiplogs/sprites/map/seas.png"
+        }
     },
     "Props": {
         "dialogue": [
