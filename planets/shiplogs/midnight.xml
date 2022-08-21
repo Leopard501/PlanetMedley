@@ -7,7 +7,7 @@
 
         <RumorFact>
             <ID>midnight_wormhole_rumor</ID>
-            <SourceID>to_magnificence_wormhole</SourceID>
+            <SourceID>to_midnight_wormhole</SourceID>
             <RumorName>Through the Black Hole</RumorName>
             <Text>I wonder what's on the other side of the gigantic black hole?</Text>
         </RumorFact>

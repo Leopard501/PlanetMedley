@@ -19,5 +19,71 @@
             "color": {"r": 115, "g": 50, "b": 211, "a": 255},
             "highlightColor": {"r": 160, "g": 25, "b": 230, "a": 255}
         }
+    ],
+    "entryPositions": [
+        {
+            "id": "beaches_log",
+            "position": {"x": 0, "y": 0}
+        },
+        {
+            "id": "beaches_misc",
+            "position": {"x": -300, "y": 0}
+        },
+        {
+            "id": "shepherd_log",
+            "position": {"x": 200, "y": 200}
+        },
+        {
+            "id": "forest_log",
+            "position": {"x": -200, "y": -200}
+        },
+        {
+            "id": "valleys_log",
+            "position": {"x": 200, "y": -200}
+        },
+        {
+            "id": "blue_misc",
+            "position": {"x": -200, "y": 200}
+        },
+        {
+            "id": "to_magnificence_wormhole",
+            "position": {"x": 600, "y": 0}
+        },
+        {
+            "id": "swamp_log",
+            "position": {"x": 400, "y": 200}
+        },
+        {
+            "id": "greenrock_log",
+            "position": {"x": 400, "y": -200}
+        },
+        {
+            "id": "seas_log",
+            "position": {"x": 800, "y": -200}
+        },
+        {
+            "id": "to_midnight_wormhole",
+            "position": {"x": 1200, "y": 0}
+        },
+        {
+            "id": "midnight_wormhole",
+            "position": {"x": 1000, "y": 200}
+        },
+        {
+            "id": "dusk_log",
+            "position": {"x": 1000, "y": -200}
+        },
+        {
+            "id": "canyon_log",
+            "position": {"x": 1400, "y": 200}
+        },
+        {
+            "id": "bleak_log",
+            "position": {"x": 1400, "y": -200}
+        },
+        {
+            "id": "to_medley_wormhole",
+            "position": {"x": 1600, "y": 0}
+        }
     ]
 }
